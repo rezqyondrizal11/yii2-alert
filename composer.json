@@ -1,0 +1,21 @@
+{
+    "name": "rezqyondrizal11/yii2-alert",
+    "description": "widget twiiter boostrap",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rezqy ondrizal",
+            "email": "riskiondrizal@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rezqyondrizal11\\alert\\": ""
+        }
+    }
+}
